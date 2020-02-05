@@ -1,5 +1,5 @@
-# office-dog-party
-Goal: to create a responsive layout across desktop and mobile views based on the Challenge Instructions and mockup(dog-comp.png)
+# Office Dog Party
+Goal: to create a responsive "Office Dog Party"-themed layout across desktop and mobile views based on the Challenge Instructions and mockup(dog-comp.png)
 
 *Desktop Screenshot:*
 ![Desktop Screenshot](office-pup-desktop-screenshot.png)
