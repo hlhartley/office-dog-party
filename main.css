@@ -1,0 +1,105 @@
+h1 {
+  font-size: 40px;
+  line-height: 50px;
+}
+
+h2 {
+  font-size: 28px;
+  line-height: 38px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 26px;
+}
+
+img {
+  max-width: 90vw;
+}
+
+body {
+  font-family: "Arial", "Trebuchet MS", sans-serif;
+  max-width: 100%;
+}
+
+nav {
+  background: linear-gradient(to right, #6987D7, #004FC6);
+  padding: 10px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.header {
+  align-items: center;
+  background: #F1F5FA;
+  display: flex;
+  height: 150px;
+  justify-content: center;
+  margin-top: 57px;
+}
+
+.top-dog-container, .office-pups-container {
+  align-items: center;
+  display: grid;
+  margin: 5%;
+}
+
+.top-dog-container {
+  grid-template-columns: repeat(2, 1fr);
+  grid-column-gap: 50px;
+}
+
+.top-dog-text {
+  margin: 10px 0;
+}
+
+.office-pups-container {
+  display: grid;
+  grid-column-gap: 50px;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  margin-top: 20px;
+}
+
+.office-pups-header {
+  margin: 50px 0 -15px 5%;
+}
+
+.office-pup-container {
+  display: grid;
+  margin-bottom: 20px;
+}
+
+.office-pup-container:hover {
+  cursor: pointer;
+  opacity: 0.75;
+}
+
+.office-pup-image {
+  width: 100%;
+}
+
+.office-pup-text {
+  margin-top: 7px;
+}
+
+@media screen and (max-width: 768px) {
+  .top-dog-container {
+    grid-template-areas:
+      "top-dog-text"
+      "top-dog-image"
+  }
+  
+  .top-dog-image {
+    grid-area: top-dog-image;
+  }
+
+  .top-dog-text {
+    grid-area: top-dog-text;
+  }
+
+  .pup-text {
+    display: none;
+  }
+}
+
