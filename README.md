@@ -4,7 +4,7 @@ Goal: to create a responsive layout across desktop and mobile views based on the
 *Desktop Screenshot:*
 ![Desktop Screenshot](office-pup-desktop-screenshot.png)
 
-*Mobile Screenshot:*
+*Mobile Screenshot:*  
 ![Mobile Screenshot 1](office-pup-mobile-screenshot-1.png)
 ![Mobile Screenshot 2](office-pup-mobile-screenshot-2.png)
 
