@@ -14,7 +14,7 @@ Goal: to create a responsive "Office Dog Party"-themed layout across desktop and
 - Gradient-background nav
 - Sticky nav
 - More grid styling
-- Media query to remove "office-pup-text" as well as display "top-dog-text" above "top-dog-image" on mobile devices (576px and below)
-- Allow images to stack on mobile devices
+- Media query to remove "office-pup-text" as well as display "top-dog-text" above "top-dog-image" on mobile and tablet devices (768px and below)
+- Allow images to stack on mobile and tablet devices
 - Hover effect on office pup images (opacity 0.75)
 
