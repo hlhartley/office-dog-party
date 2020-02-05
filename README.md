@@ -5,8 +5,8 @@ Goal: to create a responsive "Office Dog Party"-themed layout across desktop and
 ![Desktop Screenshot](office-pup-desktop-screenshot.png)
 
 *Mobile Screenshots:*  
-![Mobile Screenshot 1](office-pup-mobile-screenshot-1.png)  
-![Mobile Screenshot 2](office-pup-mobile-screenshot-2.png)
+![Mobile Screenshot 1](mobile-screenshot-1.png)  
+![Mobile Screenshot 2](mobile-screenshot-2.png)
 
 **Recently Added:**
 - Semantic HTML
